@@ -17,8 +17,8 @@ export class ProductListComponent {
       releaseDate: 'March 18, 2022',
       description: 'Product 2 Product 2 Product 2, Product 2',
       price: 3.14,
+      imageUrl: 'assets/img/product1.png',
       starRating: 4.2,
-      imageUrl: 'assets/images/cherry.jpg',
     },
     {
       productId: 4,
@@ -28,7 +28,7 @@ export class ProductListComponent {
       description: 'Product 4 Product 4 Product 4, Product 4',
       price: 40.4,
       starRating: 3.0,
-      imageUrl: 'assets/images/tab.jpg',
+      imageUrl: 'assets/img/tab.jpg',
     },
   ];
 }
