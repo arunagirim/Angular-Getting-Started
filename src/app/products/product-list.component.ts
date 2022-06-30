@@ -16,7 +16,7 @@ export class ProductListComponent {
       description: 'Product 2 Product 2 Product 2, Product 2',
       price: 3.14,
       starRating: 4.2,
-      imageUrl: '',
+      imageUrl: './app/assests/images/assistant_direction_FILL0_wght400_GRAD0_opsz48.png',
     },
     {
       productId: 4,
