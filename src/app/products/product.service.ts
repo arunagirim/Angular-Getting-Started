@@ -9,7 +9,8 @@ import { IProduct } from './product';
   providedIn: 'root',
 })
 export class ProductService {
-  private productUrl = 'https://product.free.beeceptor.com/my/api/path';
+  private productUrl =
+    'https://run.mocky.io/v3/d4b62bb6-3598-43a6-98d5-03b4ce11058f';
 
   constructor(private http: HttpClient) {}
 

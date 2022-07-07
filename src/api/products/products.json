@@ -50,7 +50,7 @@
     "imageUrl": "assets/images/xbox-controller.png"
   },
   {
-    "productId": 1,
+    "productId": 11,
     "productName": "Apple Vinegar",
     "productCode": "PD-02",
     "releaseDate": "March 18, 2022",
@@ -60,7 +60,7 @@
     "starRating": 4.2
   },
   {
-    "productId": 2,
+    "productId": 12,
     "productName": "Organic pinewine",
     "productCode": "PD-04",
     "releaseDate": "Apr 18, 2022",
@@ -70,7 +70,7 @@
     "imageUrl": "assets/img/tab.jpg"
   },
   {
-    "productId": 3,
+    "productId": 13,
     "productName": "Hyderabadi Biryani",
     "productCode": "HB-05",
     "releaseDate": "Nov 18, 2022",
@@ -80,7 +80,7 @@
     "imageUrl": "assets/img/tab.jpg"
   },
   {
-    "productId": 4,
+    "productId": 14,
     "productName": "Brownie with Icecream",
     "productCode": "BWI-04",
     "releaseDate": "Jan 01, 2010",
@@ -90,7 +90,7 @@
     "imageUrl": "assets/img/tab.jpg"
   },
   {
-    "productId": 5,
+    "productId": 15,
     "productName": "Indian gravy",
     "productCode": "IG-04",
     "releaseDate": "Jan 01, 2010",
